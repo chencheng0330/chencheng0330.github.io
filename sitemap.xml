@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2018-12-09T02:20:21.196Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-12-09T01:51:50.655Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2018-12-09T01:51:38.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/favorite/index.html</loc>
+    
+    <lastmod>2018-12-09T01:51:23.971Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/search/index.html</loc>
+    
+    <lastmod>2018-12-08T03:14:05.118Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/12/07/testing/</loc>
+    
+    <lastmod>2018-12-08T03:14:05.117Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/12/07/testing1/</loc>
+    
+    <lastmod>2018-12-08T03:14:05.117Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/12/07/testing2/</loc>
+    
+    <lastmod>2018-12-08T03:14:05.117Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/12/07/testing3/</loc>
+    
+    <lastmod>2018-12-08T03:14:05.117Z</lastmod>
+    
+  </url>
+  
+</urlset>
